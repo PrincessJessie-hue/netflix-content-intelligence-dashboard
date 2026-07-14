@@ -1,5 +1,22 @@
 # 🎬 Netflix Content Intelligence Dashboard
 
+
+An end-to-end data analytics project exploring Netflix's global content strategy using Microsoft Excel and Microsoft Power BI.
+
+## Project Information
+
+**Role:** Data Analyst
+
+**Tools:** Microsoft Excel, Microsoft Power BI, GitHub
+
+**Project Type:** Exploratory Data Analysis (EDA) & Interactive Dashboard
+
+**Dataset Size:** 7,787 Netflix titles
+
+---
+
+## Overview
+
 ## Overview
 
 Netflix's content library has grown rapidly over the last decade, making it increasingly difficult to identify trends through manual analysis. This project explores Netflix's catalogue using Microsoft Excel and Power BI to uncover insights into content growth, regional production, genre distribution, audience targeting, and the balance between Movies and TV Shows.
