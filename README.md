@@ -108,8 +108,25 @@ Movies make up approximately 69% of the catalogue, while TV Shows account for th
 
 ## Repository Structure
 
-data/ – Original and cleaned datasets
-
+```text
+netflix-content-intelligence-dashboard/
+│
+├── README.md
+├── data/
+│   ├── netflix_titles.csv
+│   └── netflix_titles_cleaned.xlsx
+│
+├── powerbi/
+│   └── Netflix_Content_Intelligence_Dashboard.pbix
+│
+└── images/
+    ├── dashboard-overview.png
+    ├── content-growth.png
+    ├── top-countries.png
+    ├── genre-distribution.png
+    ├── audience-ratings.png
+    └── movies-vs-tv-shows.png
+```
 powerbi/ – Power BI dashboard (.pbix)
 
 images/ – Dashboard screenshots
@@ -117,6 +134,16 @@ images/ – Dashboard screenshots
 README.md – Project overview and findings
 
 ---
+## Skills Demonstrated
+
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Business Analysis
+- Dashboard Development
+- Microsoft Excel
+- Microsoft Power BI
+- Data Storytelling
 
 ## Author
 
