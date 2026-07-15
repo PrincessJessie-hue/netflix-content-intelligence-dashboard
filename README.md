@@ -15,7 +15,6 @@ An end-to-end data analytics project exploring Netflix's global content strategy
 
 ---
 
-## Overview
 
 ## Overview
 
@@ -40,6 +39,55 @@ The final deliverable is an interactive Power BI dashboard supported by explorat
 - Microsoft Excel
 - Microsoft Power BI
 - GitHub
+
+---
+## Dashboard Visualizations
+
+### Dashboard Overview
+
+![Dashboard Overview](images/dashboard-overview.png)
+
+This dashboard provides an interactive overview of Netflix's content catalogue, allowing users to filter and explore trends across countries, genres, ratings, and content types.
+
+---
+
+### Content Growth Over Time
+
+![Content Growth](images/content-growth.png)
+
+Netflix's catalogue experienced significant growth after 2015, reaching its highest number of releases in 2018.
+
+---
+
+### Top Content-Producing Countries
+
+![Top Countries](images/top-countries.png)
+
+The United States contributes the largest number of titles, followed by India, the United Kingdom, Japan, and South Korea.
+
+---
+
+### Genre Distribution
+
+![Genre Distribution](images/genre-distribution.png)
+
+Netflix offers a diverse range of genres, reflecting its strategy to appeal to a global audience with varied interests.
+
+---
+
+### Audience Rating Distribution
+
+![Audience Ratings](images/audience-ratings.png)
+
+The catalogue is dominated by TV-MA and TV-14 titles, indicating a strong focus on teen and adult audiences.
+
+---
+
+### Movies vs TV Shows
+
+![Movies vs TV Shows](images/movies-vs-tv-shows.png)
+
+Movies make up approximately 69% of the catalogue, while TV Shows account for the remaining 31%.
 
 ---
 
