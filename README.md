@@ -4,6 +4,11 @@
 An end-to-end data analytics project exploring Netflix's global content strategy using Microsoft Excel and Microsoft Power BI.
 
 ## Project Information
+## Live Dashboard
+
+🔗 **View the Interactive Power BI Dashboard**
+
+https://app.powerbi.com/links/qzt1swtQNi?ctid=de9bcee7-1e9c-4878-9fb7-39b9116e9964&pbi_source=linkShare
 
 **Role:** Data Analyst
 
